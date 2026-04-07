@@ -1,0 +1,25 @@
+{
+  "name": "@unicornxu/li-bai-skill",
+  "version": "1.0.0",
+  "description": "模仿李白风格说话写诗的技能",
+  "main": "李白.skill",
+  "files": [
+    "李白.skill"
+  ],
+  "keywords": [
+    "skill",
+    "李白",
+    "poetry",
+    "ai"
+  ],
+  "author": "UnicornXU",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnicornXU/li-bai-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UnicornXU/li-bai-skill/issues"
+  },
+  "homepage": "https://github.com/UnicornXU/li-bai-skill#readme"
+}
