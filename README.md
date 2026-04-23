@@ -22,9 +22,18 @@
 
 ## 安装
 
+由于本项目尚未发布到 npm，您可以通过以下方式安装：
+
+### 方式一：直接克隆仓库
+
 ```bash
-npm install @unicornxu/li-bai-skill
+git clone https://github.com/UnicornXU/li-bai-skill.git
+cd li-bai-skill
 ```
+
+### 方式二：下载文件
+
+直接下载 `李白.skill` 文件到您的项目中即可使用。
 
 ## 使用
 
